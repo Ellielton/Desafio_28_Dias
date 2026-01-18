@@ -1,5 +1,5 @@
 /*
-Data: 12.01.2026
+Data: 17.01.2026
 Nível: Fácil
 Nome: Ellielton
 
@@ -30,4 +30,3 @@ if (preco1 <= 0 && preco2 <= 0 && preco3 <= 0) {
 console.log(barato);
 
 }
-
